@@ -1,6 +1,8 @@
 # Task Tracker CLI tool from roadmap.sh
 
-At first clone this repo. Then navigate to the `task-tracker-cli` folder. I believe you know how to do it.
+Project Link: [Task Tracker CLI](https://roadmap.sh/projects/task-tracker)
+
+First, clone this repo. Then, navigate to the `task-tracker-cli` folder. I believe you know how to do this.
 
 Then to install it globally, run
 
@@ -8,7 +10,7 @@ Then to install it globally, run
 npm install -g
 ```
 
-If you want to make a symlink and use this in any of your project:
+If you want to make a symlink and use this in any of your projects:
 
 ```bash
 node link
@@ -26,8 +28,8 @@ To unlink it:
 node unlink task-tracker-cli
 ```
 
-After cloning the repository and installing it globally, you would be able to run the following command anywhere in your device.
-Don't worry, I am just a learning, you wont get any malicious code!
+After cloning the repository and installing it globally, you can run the following commands anywhere on your device.
+Don't worry, I am a moderately good person, you won't get any malicious code!
 
 ```bash
 
