@@ -1,0 +1,15 @@
+{
+  "name": "ccwc",
+  "version": "1.0.0",
+  "description": "Clone of the popular Unix CLI tool wc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ccwc": "./index.js"
+  },
+  "type": "module",
+  "author": "Ibtesum Reza Aninda",
+  "license": "ISC"
+}
